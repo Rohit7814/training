@@ -1,8 +1,5 @@
-# React + Vite
+Here is the live preview of my app
+https://training-iota.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-training-iota-vercel-app-2024-01-24-17_25_58](https://github.com/Rohit7814/training/assets/108716973/2ffa4e08-a9c2-467b-bc30-87475ff7da08)
